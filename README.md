@@ -4,7 +4,7 @@
 
 <h1>Prak. TCC Pertemuan 3</h1>
 <ul>
-	<li> Nama 	: Fiki Maulana</li>
-	<li> NIM 	: 145610088</li>
-	<li> Jurusan 	: Sistem Informasi </li>
+	<li> Nama 	: -</li>
+	<li> NIM 	: -</li>
+	<li> Jurusan 	: KA </li>
 </ul>
